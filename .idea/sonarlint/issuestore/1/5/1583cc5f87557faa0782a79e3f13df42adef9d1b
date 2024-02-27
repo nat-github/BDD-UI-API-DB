@@ -1,23 +1,0 @@
-
-t
-java:S1104"RMake server a static final constant or non-public and provide accessors if needed.(‰š¯Íøÿÿÿÿ8Ùí…ÒÞ1
-N
-java:S1444",Make this "public static server" field final(‰š¯Íøÿÿÿÿ8Ùí…ÒÞ1
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µÒÇÀùÿÿÿÿ8Ûí…ÒÞ1
-W
-java:S1118":Add a private constructor to hide the implicit public one.(ØøÜï8ÿí…ÒÞ1
-r
-java:S1128"PRemove this unused import 'com.github.tomakehurst.wiremock.junit5.WireMockTest'.(ê´æŸüÿÿÿÿ8›î…ÒÞ1
-s
-java:S1128"VRemove this unused import 'com.github.tomakehurst.wiremock.standalone.MappingsLoader'.(‹éÔ8›î…ÒÞ1
-X
-java:S1128"6Remove this unused import 'io.cucumber.java.AfterAll'.(¬±åëýÿÿÿÿ8›î…ÒÞ1
-Y
-java:S1128	"7Remove this unused import 'io.cucumber.java.BeforeAll'.(û¯ÁÀøÿÿÿÿ8›î…ÒÞ1
-Z
-java:S1128
-"=Remove this unused import 'org.testng.annotations.AfterTest'.(Ü³¹Ê8›î…ÒÞ1
-`
-java:S1128">Remove this unused import 'org.testng.annotations.BeforeTest'.(‚µö¨üÿÿÿÿ8›î…ÒÞ1
-Z
-java:S1128"8Remove this unused import 'org.testng.annotations.Test'.(á½úáùÿÿÿÿ8œî…ÒÞ1
