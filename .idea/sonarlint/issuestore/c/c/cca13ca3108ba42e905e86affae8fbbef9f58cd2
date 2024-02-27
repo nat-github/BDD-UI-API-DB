@@ -1,0 +1,13 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ò¿ÎìÜ1
+g	java:S112."FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8÷¿ÎìÜ1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”éÙï8ÀÎìÜ1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡üÄ8ŠÀÎìÜ1
+k
+java:S2095%"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ıœ k8¿ÂÎìÜ1
+J
+java:S4925"-Remove this "Class.forName()", it is useless.(„Ë†¬8ÃÎìÜ1
+K
+java:S2115")Add password protection to this database.(èÍâ°ùÿÿÿÿ8–ÃÎìÜ1
+G	java:S106,"+Replace this use of System.out by a logger.(…‚æ‚8¦ÃÎìÜ1
+L	java:S1069"+Replace this use of System.out by a logger.(ë‚”³ùÿÿÿÿ8¬ÃÎìÜ1

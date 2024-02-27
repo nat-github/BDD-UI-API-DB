@@ -1,0 +1,9 @@
+{
+  "accountNumber": "1234567890",
+  "type": "Checking",
+  "balance": 1000,
+  "currency": "EUR",
+  "availableBalance": 950,
+  "pendingTransactions": 50,
+  "lastTransactionDate": "2024-02-20T00:00:00Z"
+}

@@ -1,0 +1,21 @@
+{
+  "customerId": "1234567890",
+  "firstName": "John",
+  "lastName": "Doe",
+  "email": "johndoe@example.com",
+  "phoneNumber": "+1234567890",
+  "address": {
+    "streetAddress": "123 Main Street",
+    "city": "Anytown",
+    "state": "CA",
+    "postalCode": "98765",
+    "country": "US"
+  },
+  "dateOfBirth": "1980-01-01",
+  "preferredLanguage": "en-US",
+  "additionalProperties": {
+    "loyaltyPoints": 1000,
+    "vipStatus": true,
+    "notes": "Customer prefers contact via email."
+  }
+}
